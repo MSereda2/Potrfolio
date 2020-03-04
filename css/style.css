@@ -72,7 +72,7 @@ body {
     font-size: 1.7rem; }
   .nav__item {
     list-style: none;
-    padding-right: 1.4rem; }
+    padding-right: 2.9rem; }
   .nav__link {
     color: #f1eded;
     text-transform: uppercase;
@@ -80,4 +80,25 @@ body {
     text-decoration: none;
     font-weight: 500; }
     .nav__link:hover {
-      border-bottom: 2px solid black; }
+      border-bottom: 2px solid #f7f3f3; }
+
+.heading__primary {
+  padding-bottom: 1rem;
+  color: #dfdfdf;
+  font-weight: 300;
+  font-size: 6rem;
+  letter-spacing: 1.5px; }
+
+.heading__sutle {
+  margin-bottom: .4rem;
+  letter-spacing: 1.5px;
+  color: white;
+  font-size: 5rem;
+  font-weight: 700;
+  display: block; }
+
+.heading__job {
+  margin-bottom: 1rem;
+  color: #ccc;
+  font-size: 3rem;
+  letter-spacing: 1.5px; }
